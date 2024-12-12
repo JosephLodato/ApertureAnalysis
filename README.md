@@ -62,8 +62,6 @@ double peakThreshold = 0.56 * *std::max_element(angleBins.begin(), angleBins.end
 
 ## Authors
 
-Contributors names and contact info
-
 Joseph Lodato  
     [@JosephLodato] (jalodato@syr.edu)
 
