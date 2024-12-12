@@ -1,7 +1,7 @@
 # ApertureAnalysis
 
 ## Description
-This repository was the 'capstone' of an independent Study at Syracuse University in the Fall of 2024. This project reads in JPG images of a star with diffraction spikes and reconstructs the shape of the mirror used by the telescope. For example, feeding it an image of the JSWT's diffraction spikes will yield a hexagon mirror that will be reconstructed. This is done with the use of a Fourier transform, using a custom FFT algorithm by me.
+This repository was the 'capstone' of an independent Study at Syracuse University in the Fall of 2024. This project reads in JPG images of a star with diffraction spikes and reconstructs the shape of the mirror used by the telescope. For example, feeding it an image of the JSWT's diffraction spikes will yield a hexagon mirror that will be reconstructed. This is done with the use of a Fourier transform, using a custom FFT algorithm I implemented in C++.
 
 
 ## Getting Started
