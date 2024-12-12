@@ -20,7 +20,7 @@ pip install pillow numpy
 
 1. Clone the repository
 ```
-git clone --branch <JWST-Mirror-Reconstruction> https://github.com/JosephLodato/PHY490
+git clone https://github.com/JosephLodato/ApertureAnalysis.git
 cd PHY490
 ```
 2. Compile the C++ Code: Navigate to the cpp directory and compile the program:
