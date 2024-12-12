@@ -22,7 +22,7 @@ pip install pillow numpy
 1. Clone the repository
 ```
 git clone https://github.com/JosephLodato/ApertureAnalysis.git
-cd PHY490
+cd ApertureAnalysis
 ```
 2. Compile the C++ Code: Navigate to the cpp directory and compile the program:
 ```
