@@ -8,6 +8,7 @@ This project of this repository was the 'capstone' of an independent Study at Sy
 
 ### Dependencies
 C++: Ensure you have a C++ compiler installed (e.g., g++).
+
 Python: Install Python 3. Ensure you have pip installed for managing Python dependencies:
  - NumPy and PIL
 
